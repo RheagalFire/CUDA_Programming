@@ -17,5 +17,6 @@ These are the main steps to run you programme on parallel threads of GPU
 | -------- | ------|
 | Square of numbers | [Click Here](https://github.com/RheagalFire/CUDA_Programming/blob/main/square.cu)|
 | Adding Vectors    | [Click Here](https://github.com/RheagalFire/CUDA_Programming/blob/main/Vector_Add.cu)|
+|Barrier Synchronisation | [Click Here](https://github.com/RheagalFire/CUDA_Programming/blob/main/Barrier_sync.cu) |
 
 
